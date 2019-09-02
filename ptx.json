@@ -1,0 +1,16 @@
+
+{
+    "name": "Untitled",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motor": "github:dfrobot/pxt-motor#dbd0aa1f999cc925785006df8ee6581307ec3140"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj"
+}
